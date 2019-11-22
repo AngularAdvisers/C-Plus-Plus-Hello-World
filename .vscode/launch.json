@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "(gdb) Launch",
+            "name": "WSL",
             "type": "cppdbg",
             "request": "launch",
-            "program": "/mnt/c/Users/Angul/Documents/GitHub/C-Plus-Plus-Hello-World/helloworld.out",
+            "program": "/mnt/c/Users/Angul/Documents/GitHub/C-Plus-Plus-Hello-World/HelloWorld.out",
             "args": [],
             "stopAtEntry": false,
             "cwd": "/mnt/c/Users/Angul/Documents/GitHub/C-Plus-Plus-Hello-World",

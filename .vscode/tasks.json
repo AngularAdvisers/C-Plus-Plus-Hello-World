@@ -14,13 +14,7 @@
       {
         "label": "build",
         "type": "shell",
-        "command": "g++",
-        "args": [
-          "-g",
-          "-o",
-          "/mnt/c/Users/Angul/Documents/GitHub/C-Plus-Plus-Hello-World/helloworld.out",
-          "helloworld.cpp"
-        ],
+        "command": "make",
         "group": {
           "kind": "build",
           "isDefault": true
